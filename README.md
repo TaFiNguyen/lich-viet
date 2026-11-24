@@ -5,7 +5,7 @@ App lịch âm Việt Nam cho iOS 17+ (SwiftUI + WidgetKit). Không đăng nhậ
 ## Chạy
 1. Mở `LichViet.xcodeproj` bằng Xcode.
 2. Chọn target **LichViet** → Signing & Capabilities → chọn Team của bạn (làm tương tự cho **LichWidgetExtension**).
-   Nếu bundle id `com.lichviet.app` bị trùng, đổi thành id của bạn (widget phải là `<id app>.widget`).
+   Bundle id hiện tại là `com.tafinguyen.lichviet`; nếu đổi, id của widget phải là `<id app>.widget`.
 3. Chạy trên iPhone hoặc simulator. Widget: giữ màn hình chính → “+” → tìm “Lịch Việt”.
 
 ## Cấu trúc

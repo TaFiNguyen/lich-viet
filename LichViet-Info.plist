@@ -6,7 +6,7 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>com.lichviet.app</string>
+			<string>com.tafinguyen.lichviet</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>lichviet</string>
