@@ -61,7 +61,7 @@ CHÍNH XÁC VÀ RIÊNG TƯ
 | Bản quyền | © 2026 Nguyen Tai |
 
 ## Ảnh chụp màn hình
-Thư mục `AppStore/screenshots/`, kích thước 1320×2868 (iPhone 6,9 inch). Tải lên theo thứ tự:
+Thư mục `AppStore/screenshots-6.3/` (1206×2622, dùng cho ô “iPhone with Dynamic Island”); bản 6,9 inch (1320×2868) nằm trong `AppStore/screenshots/`. Tải lên theo thứ tự:
 1. `1-hom-nay.png` — Màn hình hôm nay
 2. `2-tet.png` — Ngày Tết
 3. `3-thang.png` — Xem cả tháng
