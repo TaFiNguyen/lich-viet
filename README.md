@@ -25,6 +25,9 @@ Tham số khi chạy bản Debug (Edit Scheme → Arguments), dùng để kiểm
 
 Thêm/sửa ngày lễ: `Shared/Holidays.swift`.
 
+## Icon
+Icon app được tạo bằng script `Tools/make-icon.swift` (lệnh chạy ghi ở đầu file): nền tranh Tết, tờ lịch số “1” viết bằng font Fraunces, và trăng non.
+
 ## Ảnh nền
 Tranh cổ thuộc phạm vi công cộng của các bảo tàng, lấy qua Unsplash (Unsplash License). Bản lớn cho app nằm trong `App/Backgrounds/`, bản nhỏ cho widget nằm trong `Widget/Backgrounds/`.
 - Xuân: “Misty mountains with a small house and blooming tree”, The Walters Art Museum — https://unsplash.com/photos/0k0ttlNAjMI
