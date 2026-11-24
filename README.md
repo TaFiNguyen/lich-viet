@@ -25,6 +25,9 @@ Tham số khi chạy bản Debug (Edit Scheme → Arguments), dùng để kiểm
 
 Thêm/sửa ngày lễ: `Shared/Holidays.swift`.
 
+## Đưa lên App Store
+Nội dung trang App Store, ảnh chụp màn hình và hướng dẫn nằm trong `AppStore/`. Sau khi đăng nhập Apple ID trong Xcode và tạo app trên App Store Connect, chạy `./AppStore/upload.sh` để đóng gói và tải bản build lên. Chính sách quyền riêng tư: `PRIVACY.md`.
+
 ## Icon
 Icon app được tạo bằng script `Tools/make-icon.swift` (lệnh chạy ghi ở đầu file): nền tranh Tết, tờ lịch số “1” viết bằng font Fraunces, và trăng non.
 

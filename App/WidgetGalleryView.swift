@@ -31,7 +31,13 @@ struct WidgetGalleryView: View {
             .padding(.vertical, 20)
             .frame(maxWidth: .infinity)
         }
-        .background(Color(hex: 0x3A3F55))
+        .background {
+            // Painted "wallpaper" so App Store screenshots look like a home screen.
+            SceneryView(theme: .tet)
+                .blur(radius: 18)
+                .overlay(Color.black.opacity(0.18))
+                .ignoresSafeArea()
+        }
     }
 
     private func tile<Content: View>(
